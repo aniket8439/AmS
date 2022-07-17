@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AmS</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="todo">TODO</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="here_s_your_first_step_with_us">here\'s your first \nstep with \nus</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Welcome Admin</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="Add_Student">Add Student</string>
+    <string name="Sign_out">Logout</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello Admin!</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="aniket_sharma">aniket_Sharma</string>
+    <string name="p">p</string>
+</resources>

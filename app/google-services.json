@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572880891110",
+    "project_id": "amss-3040e",
+    "storage_bucket": "amss-3040e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572880891110:android:7fe083179e0eba35db9f27",
+        "android_client_info": {
+          "package_name": "com.example.ams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572880891110-mcn9dpuguevjegg9s5t2efc47tt3b6mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYoq8MXOnuFP3OY0ZXtOdgNBr2WoqEEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572880891110-mcn9dpuguevjegg9s5t2efc47tt3b6mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
